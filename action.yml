@@ -5,7 +5,7 @@ runs:
  using: "composite"
  steps:
    - name: Running other action
-     uses: gh-actions-creator/gareth-first-github-action@v1    # v1.0.1
+     uses: gh-actions-creator/gareth-first-github-action@v1.0.1    # v1.0.1
 branding:
  icon: book-open
  color: red
